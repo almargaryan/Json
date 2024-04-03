@@ -6,7 +6,7 @@
       "surname": "Avetisyan",
       "date_birdth": "1996/5/21",
       "phone": "+37455063215",
-      "Country": "Armenia"
+      "country": "Armenia"
     },
     {
       "id": "2",
@@ -15,7 +15,7 @@
       "surname": "Sargsyan",
       "date_birdth": "1996/5/12",
       "phone": "+37455165217",
-      "Country": "Armenia"
+      "country": "Armenia"
     },
     {
       "id": "3",
@@ -24,7 +24,7 @@
       "surname": "Baghdasaryan",
       "date_birdth": "1996/5/1",
       "phone": "+37496123056",
-      "Country": "Armenia"
+      "country": "Armenia"
     },
     {
       "id": "4",
@@ -33,7 +33,7 @@
       "surname": "Vardanyan",
       "date_birdth": "1996/5/2",
       "phone": "+37493123016",
-      "Country": "Armenia"
+      "country": "Armenia"
     },
     {
       "id": "5",
@@ -42,7 +42,7 @@
       "surname": "Khachatryan",
       "date_birdth": "1996/5/14",
       "phone": "+7 9771230516",
-      "Country": "Armenia"
+      "country": "Armenia"
     },
     {
       "id": "6",
@@ -51,7 +51,7 @@
       "surname": "Dadyan",
       "date_birdth": "1996/5/6",
       "phone": "+37494123356",
-      "Country": "Armenia"
+      "country": "Armenia"
     },
     {
       "id": "7",
@@ -60,7 +60,7 @@
       "surname": "Pogosyan",
       "date_birdth": "1996/5/11",
       "phone": "+37477623356",
-      "Country": "Armenia"
+      "country": "Armenia"
     },
     {
       "id": "8",
@@ -69,7 +69,7 @@
       "surname": "Alaverdyan",
       "date_birdth": "1996/5/26",
       "phone": "+37477503326",
-      "Country": "Armenia"
+      "country": "Armenia"
     },
     {
       "id": "9",
@@ -78,7 +78,7 @@
       "surname": "Muradyan",
       "date_birdth": "1996/5/28",
       "phone": "+37498210036",
-      "Country": "Armenia"
+      "country": "Armenia"
     },
     {
       "id": "10",
@@ -87,6 +87,6 @@
       "surname": "Muradyan",
       "date_birdth": "1996/5/29",
       "phone": "+37498210036",
-      "Country": "Armenia"
+      "country": "Armenia"
     }
 ]
